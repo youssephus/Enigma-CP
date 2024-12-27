@@ -64,7 +64,7 @@ This folder focuses on arrays in C++ with examples and practice problems.
      -   `set.cpp`: Demonstrates set declaration and iteration.
         -   `map.cpp`: Demonstrates map declaration and iteration.
         -   `string.cpp`: Demonstrates string declaration and iteration.
-    -   `opertions.cpp`: Explains vector , set and map operations 
+    -   `operations.cpp`: Explains vector , set and map operations 
         
 -   **YouTube Resources**:
     
